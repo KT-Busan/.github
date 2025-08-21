@@ -19,7 +19,7 @@
 ## 소개
 
 - **목표** : 부산 지역 청년들에게 공간·프로그램 정보를 대화형으로 제공  
-- **구성** : Frontend(React + Vite, GitHub Pages) + Backend(Flask 3.x, SQLite, Render)  
+- **구성** : Frontend(React + Vite, GitHub Actions) + Backend(Flask 3.x, SQLite, Render)  
 - **데이터 품질** : 크롤러 기반 최신화 + **Override 병합** + 캐시 최적화  
 - **응답 품질** : 규칙/키워드 매칭과 **자연어 응답(OpenAI)** 하이브리드
 
@@ -40,7 +40,7 @@
 - Frontend: React 18, Vite, Axios, ESLint, 다크모드/지도/사이드바
 → busan-chatbot-frontend
 
-- Backend: Flask 3.x, Python 3.9+, SQLAlchemy+SQLite, Requests+BS4, OpenAI 연동, 캐시/오버라이드
+- Backend: Flask 3.x, Python 3.12+, SQLAlchemy+SQLite, Requests+BS4, OpenAI 연동, 캐시/오버라이드
 → busan-chatbot-backend
 
 ---
