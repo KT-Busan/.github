@@ -3,7 +3,9 @@
 <div align="center">
   <h1>B-BOT 부산 청년 공간 알리미</h1>
   <p>🔍 LLM 기반 공간 알리미 챗봇 서비스 🔍</p>
-  <a href="https://kt-busan.github.io/busan-chatbot-frontend/">홈페이지</a>
+  <a href="https://kt-busan.github.io/busan-chatbot-frontend/">홈페이지</a> | 
+  <a href="https://llouis.notion.site/project-reportk">개발 리포트</a> | 
+  <a href="https://llouis.notion.site/kt-busan?source=copy_link">노션</a>
 </div>
 
 <br/>
